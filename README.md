@@ -1,5 +1,3 @@
 # ejemplo-chichi
 
-# Amo a chichina
-
-# Cambio de rama2
+# quiero terminar
